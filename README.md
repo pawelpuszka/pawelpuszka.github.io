@@ -1,3 +1,3 @@
 # **Computer Store Schema**
 
-![database_schema](Relational.png)
+![database_schema](Relational.jpg)
