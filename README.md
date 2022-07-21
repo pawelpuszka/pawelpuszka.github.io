@@ -1,1 +1,1 @@
-# pawelpuszka.github.io
+# **Computer Store Schema**
